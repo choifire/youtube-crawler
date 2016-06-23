@@ -1,4 +1,4 @@
-# youtube-crawler
+# youtube-crawler (not general purpose)
 
 This is not a general crawler, made just for a youtube music crawler based on viewCount
 Nothing special
